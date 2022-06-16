@@ -1,0 +1,71 @@
+body{
+  margin: 0;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+  color:#40514E;
+  }
+.cloud-image{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.cloud-img{
+  position: absolute;
+  left: 300px;
+  bottom:300px;
+}
+.first-container{
+  background-color: #ccffff;
+  position: relative;
+  padding-top: 50px;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  color:#66BFBF;
+  font-size: 90px;
+}
+h2{
+  font-family:'Montserrat', sans-serif;
+  color:#66BFBF;
+
+}
+h3{
+  font-family:'Montserrat', sans-serif;
+  color:#11999E;
+}
+.hair-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+hr{
+  border: dotted #ccff00 6px;
+  border-bottom: none;
+  width:40px;
+  margin:auto; 
+}
+.intro{
+  width:30%;
+  margin: auto;
+}
+p{
+  line-height: 2;
+}
+.second-container{
+padding-top: 100px 0;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+}
+.third-container{
+
+}
+.wole{
+  text-decoration:underline;
+}
+.web-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
